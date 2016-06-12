@@ -8,5 +8,6 @@ curl https://raw.githubusercontent.com/jcdarwin/certify/master/certify.sh > cert
     && chmod ug+x certify \
 	&& ./certify --help
 
+My most-used application of this script is to see the validity of the cert for a given domain:
 
-
+    ./certify --host github.com --dates
