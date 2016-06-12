@@ -3,7 +3,7 @@
 # All credit:
 # http://giantdorks.org/alain/shell-script-to-check-ssl-certificate-info-like-expiration-date-and-subject/
 
-# curl https://raw.githubusercontent.com/nzmebooks/certify/certify.sh > certify /
+# curl https://raw.githubusercontent.com/jcdarwin/certify/master/certify.sh > certify /
 #    && chmod ug+x certify /
 #	&& ./certify --help
 
